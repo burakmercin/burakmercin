@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,python" alt="My Skills" />
   </a>
 </p>
 
